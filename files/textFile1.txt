@@ -1,0 +1,2 @@
+This is the first modification in textFile1.txt
+and this is a new line.
